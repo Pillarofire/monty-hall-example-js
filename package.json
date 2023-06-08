@@ -1,0 +1,23 @@
+{
+  "name": "monty-hall-example",
+  "version": "1.0.0",
+  "description": "An example of the Monty Hall problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pillarofire/monty-hall-example-js.git"
+  },
+  "keywords": [
+    "Monty",
+    "Hall"
+  ],
+  "author": "Pillarofire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pillarofire/monty-hall-example-js/issues"
+  },
+  "homepage": "https://github.com/Pillarofire/monty-hall-example-js#readme"
+}
